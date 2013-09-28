@@ -1,0 +1,72 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf320
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Array list index displays number\
+Use number to check in/out\
+\
+Enter book number: \
+\
+Display patrons should show patron and books checked out\
+\
+Each patron will have their own array list for checked out books\
+\
+Reference to book on the heap. \
+\
+import java.util.ArrayList;\
+\
+hard coding the patron in\
+patronList.add(new Patron(""));\
+\
+Librarian using boolean\
+\
+// creation of the array list\
+private ArrayList<Book> booklist;\
+\
+// making the array list variable\
+booklist = new ArrayList<Book>();\
+\
+// hard coding the books into the system\
+createBookList()\
+\{\
+booklist.add("");\
+\}\
+\
+// printing the list of books\
+public ArrayList getBookList() \
+\{\
+	return booklist;\
+\}\
+\
+// checking out a book\
+public booklist getBook(int n)\
+\{\
+\}\
+\
+// traversing a list (Could be useful for booklist)\
+public String toString()\
+\{\
+	String str = " "; // temp variable\
+	Card card; // temp variable\
+	// traverse ArrayList cards starting at index 0 to last card\
+	for(int index = 0; index < cards.size(); index++)\
+	\{\
+		// get the card in cards at index\
+		card = cards.get(index);\
+		// concatenate the toString of Card with new line\
+		str += card.toString() + "\\n";\
+	\}\
+	return str;\
+\}\
+\
+books.get(x);\
+\
+The constructor can accept an Array of something as it's argument\
+(EX: \
+public Patron(string[] patrons)\
+\{\
+	patronstuff = patrons;\
+\}\
+}

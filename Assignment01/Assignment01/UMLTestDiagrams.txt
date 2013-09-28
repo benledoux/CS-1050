@@ -1,0 +1,77 @@
+Block 
+-------------
+
+- length : double
+- width : double
+- height : double
+
+--------------
+
++ Block()
++ getLength() : double
++ getWidth() : double
++ getHeight() : double
++ setLength(double) : void
++ setWidth(double) : void
++ setHeight(double) : void
++ calculateSurfaceArea() : double
++ isCube() : boolean
++ toString: String
+
+
+Dice
+---------------
+- die1 : Die
+- die2 : Die
+
+---------------
++ Dice()
++ roll() : void
++ isDoubles() : boolean
++ getDie1FaceValue() : int
++ getDie2FaceValue() : int
+
+
+Die 
+---------------
+- rand : Random
+- faceValue : int
+- sides : int
+
+----------------
++ Die()
++ Die(int)
++ roll() : int
++ getFaceValue() : int
+
+
+Rectangle
+-----------------
+- length : double
+- width : double
+
+-----------------
++ Rectangle()
++ getLength() : double
++ getWidth() : double
++ setLength() : void
++ setWidth() : void
++ calculateArea : double
++ isSquare() : boolean
++ toString() : String
+
+
+Object Tester
+-----------------
+- stdIn : Scanner
+
+-----------------
++ getInputString() : String
++ getInputInt() : int
++ getInputDouble() : double
++ getInputChar() : char
++ testSphere() : void
++ testRectangle() : void
++ testDie() : void
++ testDice() : void
++ testBlock() : void

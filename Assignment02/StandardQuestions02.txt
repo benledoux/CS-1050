@@ -1,0 +1,8 @@
+Ben LeDoux
+Standard Questions
+
+1. I spent a couple hours altogether on the program. After reading the chapter explaing switches to me, I decided to dive in and begin the program and had it completed very quickly. I then came back to tweak minor stylistic issues to complete the program.
+
+2. I didn't really experience any difficulties during this, just simple thought processes I worked on to tighten up the coding.
+
+3. They all ran great. Getting the deposits and withdrawls synced up to the fees was the only thing I had to spend extra time on.

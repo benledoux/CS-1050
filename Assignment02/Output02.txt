@@ -1,0 +1,79 @@
+Ben LeDoux
+Output 02
+
+  ----jGRASP exec: java SimpleATM
+    In order to open your account, please enter your name: 
+    Achilles
+    Achilles, your account number is 19540
+    Your balance is $0.00
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?Deposit
+    How much would you like to deposit: 100
+    Your have deposited $100.00, making your balance $98.00after the standard $2.00 deposit fee.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?Huh?
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?D
+    How much would you like to deposit: 1000
+    Your have deposited $1000.00, making your balance $1098.00.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?Deposit
+    How much would you like to deposit: 50
+    Your have deposited $50.00, making your balance $1146.00after the standard $2.00 deposit fee.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?B
+    Achilles, your account number is 19540
+    Your balance is $1146.00
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?D
+    How much would you like to deposit: 10
+    Your have deposited $10.00, making your balance $1154.00after the standard $2.00 deposit fee.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?W
+    How much would you like to withdraw: 30
+    You have withdrawn $30.00, making your balance $1119.00 after the standard $5.00 withdraw fee.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?D
+    How much would you like to deposit: 10000
+    Your have deposited $10000.00, making your balance $11119.00.
+    Congratulations, now that your account is above $10,000.00, you are considered a valued customer.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?W
+    How much would you like to withdraw: 5
+    You have withdrawn $5.00, making your balance $11114.00.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?W
+    How much would you like to withdraw: 5000
+    You have withdrawn $5000.00, making your balance $6114.00.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?W
+    How much would you like to withdraw: 39
+    You have withdrawn $39.00, making your balance $6070.00 after the standard $5.00 withdraw fee.
+    
+    (W)ithdraw            (D)eposit
+    (B)alance             (Q)uit
+    What would you like to do today?Q
+    
+     ----jGRASP: operation complete.

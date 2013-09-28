@@ -1,0 +1,38 @@
+Ben LeDoux
+Assignment 04
+4/22/12
+Program Test
+
+    Enter student's first name (enter quit to end): B en
+    No spaces, please enter student's name (enter quit to end): Be n
+    No spaces, please enter student's name (enter quit to end): Ben
+    Score (Enter -1 to end): 39
+    Score (Enter -1 to end): -4
+    Not a valid score, try again: 184
+    Not a valid score, try again: 3
+    Score (Enter -1 to end): 4.8
+    Score (Enter -1 to end): -1
+    Enter next student name (enter quit to end): Jane
+    Score (Enter -1 to end): 39
+    Score (Enter -1 to end): 48
+    Score (Enter -1 to end): 50
+    Score (Enter -1 to end): 29
+    Score (Enter -1 to end): -1
+    Enter next student name (enter quit to end): Joe
+    Score (Enter -1 to end): 38
+    Score (Enter -1 to end): 49
+    Score (Enter -1 to end): 20
+    Score (Enter -1 to end): 10
+    Score (Enter -1 to end): 39
+    Score (Enter -1 to end): -1
+    Enter next student name (enter quit to end): quit
+    Students:
+    0: Ben
+      39.0 3.0 4.8
+    Tests: 3 High score: 39.0 Low score: 3.0 Total: 46.8
+    1: Jane
+      39.0 48.0 50.0 29.0
+    Tests: 4 High score: 50.0 Low score: 29.0 Total: 166.0
+    2: Joe
+      38.0 49.0 20.0 10.0 39.0
+    Tests: 5 High score: 49.0 Low score: 10.0 Total: 156.0: 39.0

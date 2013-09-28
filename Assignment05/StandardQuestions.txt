@@ -1,0 +1,12 @@
+Ben LeDoux
+Assignment 05
+Standard Questions
+
+A. How much time did you spend on this assignment?
+- Because this assignment was very much based off of Assignment 4, I spent little time implementing the new code in and getting it set up.
+
+B. What difficulties did you experience?
+- I kept putting in the wrong error messages and the program wouldn't run but once I got those figured out, the rest was easy.
+
+C. What were the results of running your test cases/program? Run the program enough times to see that it works correctly Ð more about testing in subsequent assignments.
+- I experienced no problems.

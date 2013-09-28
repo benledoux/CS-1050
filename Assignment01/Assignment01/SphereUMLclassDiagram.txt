@@ -1,0 +1,17 @@
+UML Class Diagram for Sphere class
+
+--------------------------------------
+       Sphere
+--------------------------------------
+ - radius : double
+ - stdIn : Scanner
+--------------------------------------
+ + Sphere()
+ + Sphere(double)
+ + getRadius() : double
+ + setRadius(double) : void
+ + calculateVolume() : double
+ + calculateSurfaceArea() : double
+ + askForRadius() : void
+ + outputInfo() : void
+--------------------------------------- 

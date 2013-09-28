@@ -1,0 +1,35 @@
+Ben LeDoux
+Assignment 02
+UML Diagram
+
+Account
+---------
+- name : String
+- account : int
+- balance : double
+- valued : boolean
+- stdIn : Scanner
+- randomGenerator : Random
+- formatter : DecimalFormat
+
+------------
++ Account()
++ setName() : void
++ getAccountInfo() : void
++ deposit(double) : void
++ withdraw(double) : void
+
+Customer
+---------
+- acc : Account
+
+---------
++ Customer() : void
+
+
+SimpleATM
+---------
+- cust : Customer
+
+--------
+main(String[]) : void

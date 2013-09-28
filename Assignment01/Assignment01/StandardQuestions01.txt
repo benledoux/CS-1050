@@ -1,0 +1,8 @@
+1. How much time did you spend on this assignment? 
+At first it took me a long time to decipher what we were supposed to do but once I talked to you, it became clear and allowed me to blow through it. It took me around an hour looking at the code before e-mailing and figuring out that I had forgot to create an object but after that, I did the rest of the assignment in about an hour and a half.	
+
+2. What difficulties did you experience? 
+Creating the object. I have no idea why that step skipped my memory but as soon as I figured that out, the rest was very easy to get through although I added a few statements and loops to make it more streamlined and user-friendly, which I hope is allowed.
+
+3. What were the results of running your test cases/program? Run the program enough times to see that it works correctly Ð more about testing in subsequent assignments. 
+I ran through it many times and it came out excellently. Unfortunately, I was unable to roll doubles on the dice after over half an hour, which tells me I should never go to Vegas.

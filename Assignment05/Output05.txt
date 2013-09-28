@@ -1,0 +1,77 @@
+Ben LeDoux
+Output
+
+    Would you like to (I)nput names or (R)ead from a file?R
+    Enter student's first name (enter quit to end): Ben
+    Score (Enter -1 to end): 30
+    Score (Enter -1 to end): 48
+    Score (Enter -1 to end): 3994
+    Not a valid score, try again: -45
+    Not a valid score, try again: 39
+    Score (Enter -1 to end): 0
+    Score (Enter -1 to end): -1
+    Enter next student name (enter quit to end): Susie
+    Score (Enter -1 to end): 39
+    Score (Enter -1 to end): 48
+    Score (Enter -1 to end): 50
+    Score (Enter -1 to end): 02
+    Score (Enter -1 to end): -1
+    Enter next student name (enter quit to end): quit
+    Students:
+    0: Amy 99.9 88.8 78.8
+    Tests: 3
+     High score: 99.9
+     Low score: 78.8
+     Total: 267.5
+    1: Bob 67.9 88.9 100.0
+    Tests: 3
+     High score: 100.0
+     Low score: 67.9
+     Total: 256.8
+    2: Cherry 78.9 87.9 91.2
+    Tests: 3
+     High score: 91.2
+     Low score: 78.9
+     Total: 258.0
+    3: Darcy 78.3 45.9 67.8 88.9 71.4
+    Tests: 5
+     High score: 88.9
+     Low score: 45.9
+     Total: 352.29999999999995
+    4: Ellen 89.3 78.5 88.8 76.1
+    Tests: 4
+     High score: 89.3
+     Low score: 76.1
+     Total: 332.70000000000005
+    5: Fred 91.2 89.5 78.5 81.1
+    Tests: 4
+     High score: 91.2
+     Low score: 78.5
+     Total: 340.29999999999995
+    6: Georgia 77.2 89.9 67.9
+    Tests: 3
+     High score: 89.9
+     Low score: 67.9
+     Total: 235.00000000000003
+    7: Henry 78.9 83.2 80.0 92.4
+    Tests: 4
+     High score: 92.4
+     Low score: 78.9
+     Total: 334.5
+    8: Isabell 78.2 78.9 56.8 98.4 0.0
+    Tests: 5
+     High score: 98.4
+     Low score: 0.0
+     Total: 312.30000000000007
+    9: Ben 30.0 48.0 39.0 0.0
+    Tests: 4
+     High score: 48.0
+     Low score: 0.0
+     Total: 117.0
+    10: Susie 39.0 48.0 50.0 2.0
+    Tests: 4
+     High score: 50.0
+     Low score: 2.0
+     Total: 139.0
+    
+    Save File dialog cancelled

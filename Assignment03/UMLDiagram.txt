@@ -1,0 +1,49 @@
+Library
+--------
+- patrons : ArrayList<Patron>
+- books : ArrayList<Book>
+- checkin : ArrayList<String>
+
+--------
++ Library()
++ patronlist : void
++ bookindex : void
++ run : void
++ main : static void
+
+Patron
+--------
+- name : String
+- password : String
+- librarian : boolean
+- checkedout : ArrayList<String>
+
+--------
++ Patron()
++ Patron(String, String, boolean, ArrayList<String>)
++ newPass(String) : void
++ toString : String
++ listofpatrons : boolean
++ getPatrons(ArrayList<Patron>) : String
++ AccountInfo() : String
++ checkIn(int) : void
++ checkout(String) : void
++ login(ArrayList<Patron>) : int
+
+Book
+--------
+- author : String
+- title : String
+- available : boolean
+
+--------
++ Book(String, String, boolean)
++ toString() : String
++ checkout() : boolean
++ checkin() : boolean
++ title() : String
++ author() : String
++ searchauthor(String, ArrayList<Book>) : boolean
++ searchtitle(String, ArrayList<Book>) : boolean
++ getBooks(ArrayList<Books>) : String
+

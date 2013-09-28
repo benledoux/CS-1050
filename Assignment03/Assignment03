@@ -1,0 +1,142 @@
+    Username: Mick Foley
+    Password: cactus
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?S
+    Search by (t)itle or (a)uthor?
+    A
+    Who is the author? 
+    Scott Friedman
+    Scott Friedman is in our system.
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?S
+    Search by (t)itle or (a)uthor?
+    A
+    Who is the author? 
+    Rando
+    Rando does not exist.
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?C
+    Books:
+    0: I Hope They Serve Beer in Hell by Tucker Max is checked in.
+    1: Hilarity Ensues by Tucker Max is checked in.
+    2: Sloppy Seconds by Tucker Max is checked in.
+    3: Steve Jobs by Walter Isaacson is checked in.
+    4: About a Boy by Nick Hornby is checked in.
+    5: Dear 2600 by Emmanuel Goldstein is checked in.
+    6: Go Ask Alice by Anonymous is checked in.
+    7: American Gods by Neil Gaiman is checked in.
+    8: Sex, Drugs, and Cocoa Puffs by Chuck Klosterman is checked in.
+    9: Love is a Mixtape by Rob Sheffield is checked in.
+    10: The Celebration Factor by Scott Friedman is checked in.
+    11: Foley is Good by Mick Foley is checked in.
+    12: The Raven by Edgar Allen Poe is checked in.
+    13: The Crow by James O' Barr is checked in.
+    
+    Select the number of the book you would like to check out: 
+    12
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?C
+    Books:
+    0: I Hope They Serve Beer in Hell by Tucker Max is checked in.
+    1: Hilarity Ensues by Tucker Max is checked in.
+    2: Sloppy Seconds by Tucker Max is checked in.
+    3: Steve Jobs by Walter Isaacson is checked in.
+    4: About a Boy by Nick Hornby is checked in.
+    5: Dear 2600 by Emmanuel Goldstein is checked in.
+    6: Go Ask Alice by Anonymous is checked in.
+    7: American Gods by Neil Gaiman is checked in.
+    8: Sex, Drugs, and Cocoa Puffs by Chuck Klosterman is checked in.
+    9: Love is a Mixtape by Rob Sheffield is checked in.
+    10: The Celebration Factor by Scott Friedman is checked in.
+    11: Foley is Good by Mick Foley is checked in.
+    12: The Raven by Edgar Allen Poe is checked out.
+    13: The Crow by James O' Barr is checked in.
+    
+    Select the number of the book you would like to check out: 
+    11
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?A
+    Name: Mick Foley
+    Librarian: false
+    Password: cactus
+    Books: 
+    0: The Raven by Edgar Allen Poe is checked out.
+    1: Foley is Good by Mick Foley is checked out.
+    
+    Would you like to (C)hange password, (R)eturn a book, or (G)o back: 
+    R
+    Which number would you like to return? 0
+    0 has been checked in.
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?A
+    Name: Mick Foley
+    Librarian: false
+    Password: cactus
+    Books: 
+    0: Foley is Good by Mick Foley is checked out.
+    
+    Would you like to (C)hange password, (R)eturn a book, or (G)o back: 
+    C
+    New Password: panda
+    Your new password is panda
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?A
+    Name: Mick Foley
+    Librarian: false
+    Password: panda
+    Books: 
+    0: Foley is Good by Mick Foley is checked out.
+    
+    Would you like to (C)hange password, (R)eturn a book, or (G)o back: 
+    G
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?S
+    Search by (t)itle or (a)uthor?
+    T
+    What is the title? 
+    The Crow
+    The Crow is in our system.
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?S
+    Search by (t)itle or (a)uthor?
+    T
+    What is the title? 
+    Fhghg
+    Fhghg does not exist.
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?L
+    Sorry, only librarians have this function.
+    
+    (C)atalog            (A)ccount
+    (L)ist of Patrons    (S)earch
+    (Q)uit
+    What would you like to do today?Q
